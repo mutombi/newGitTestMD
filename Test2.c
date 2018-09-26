@@ -26,9 +26,6 @@ int main()
 	v = v % 7;
 	printf("v %% 7 equals %d\n",v);
 
-/* Modulus */
-	v = v % 7;
-	printf("v %% 7 equals %d\n",v);
-
 	return(0);
 }
+ 
